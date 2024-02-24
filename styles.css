@@ -1,0 +1,38 @@
+h1{
+    size: 40px;
+}
+
+html{
+    background-color: #7ABFBF
+    ;
+}
+
+body{
+    background-color: #F2F2F2;
+    width: 1280px;
+    align-items: center;
+    margin-top: 1rem;
+}
+
+nav ul{
+    display: flex;
+    position: fixed;
+    top: 0;
+    background-color: white;
+    text-align: center;
+    width: 1200px;
+}
+
+nav{
+    display: flex;
+    text-align: center;
+}
+
+nav img{
+    height: 70px;
+}
+
+body{
+    margin-top: 90px;
+    text-align: center;
+}
